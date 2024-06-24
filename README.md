@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newsletter-sign-up-form-with-success-message-solution-mMsSp2CLkP)
-- Live Site URL: [Add live site URL here](https://spzondo.github.io/newsletter-sign-up/)
+- Live Site URL: (https://spzondo.github.io/newsletter-sign-up/)
 
 
 ### Built with
